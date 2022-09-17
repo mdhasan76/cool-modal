@@ -1,3 +1,10 @@
+.main-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 .btn {
     padding: 10px 14px;
     border: none;
